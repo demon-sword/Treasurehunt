@@ -50,3 +50,4 @@ The subtraction can be done by changing the values in the else path for hasNorma
 - Link to [TensorFlow documentation](https://www.tensorflow.org/mobile/)
 - Link to [Custom Vision Service Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home)
 
+Made By Sarthak Agarwal
